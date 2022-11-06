@@ -1,0 +1,4 @@
+ https://arushisingh6.github.io/sitemap.xml
+ User-agent: * (Arushisingh6)
+ Allow: / (Arushisingh6)
+ 
